@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @The-Rahul-R
-- 👀 I’m interested in exploring new tech
-- 🌱 I’m currently learning front end dev
+- 👀 I’m a software engineer at Wells Fargo
 - 📫 E-mail: rahulreddy23feb@gmail.com
 
 <!---
